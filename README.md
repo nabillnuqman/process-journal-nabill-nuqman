@@ -5,9 +5,9 @@ This repository contains the coding and other tasks created during the Computer 
 
 Table of Contents
 ------------------------
-  * Usage (#usage)
-  * Organization (#organization)
-  * License (#license)
+  * [Usage](#usage)
+  * Organization(#organization)
+  * License(#license)
   
   Usage
   ------------
